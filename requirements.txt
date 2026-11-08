@@ -1,0 +1,12 @@
+pypdf
+langchain-core
+langchain-classic
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langchain-chroma
+sentence-transformers
+weaviate-client
+rank_bm25
+torch
